@@ -1,0 +1,17 @@
+C:\Users\yasinka\Desktop\RabbitMQ-Tutorial\2Consumer-1Producer\SecondConsumer\bin\Debug\net7.0\SecondConsumer.exe
+C:\Users\yasinka\Desktop\RabbitMQ-Tutorial\2Consumer-1Producer\SecondConsumer\bin\Debug\net7.0\SecondConsumer.deps.json
+C:\Users\yasinka\Desktop\RabbitMQ-Tutorial\2Consumer-1Producer\SecondConsumer\bin\Debug\net7.0\SecondConsumer.runtimeconfig.json
+C:\Users\yasinka\Desktop\RabbitMQ-Tutorial\2Consumer-1Producer\SecondConsumer\bin\Debug\net7.0\SecondConsumer.dll
+C:\Users\yasinka\Desktop\RabbitMQ-Tutorial\2Consumer-1Producer\SecondConsumer\bin\Debug\net7.0\SecondConsumer.pdb
+C:\Users\yasinka\Desktop\RabbitMQ-Tutorial\2Consumer-1Producer\SecondConsumer\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\yasinka\Desktop\RabbitMQ-Tutorial\2Consumer-1Producer\SecondConsumer\obj\Debug\net7.0\SecondConsumer.csproj.AssemblyReference.cache
+C:\Users\yasinka\Desktop\RabbitMQ-Tutorial\2Consumer-1Producer\SecondConsumer\obj\Debug\net7.0\SecondConsumer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasinka\Desktop\RabbitMQ-Tutorial\2Consumer-1Producer\SecondConsumer\obj\Debug\net7.0\SecondConsumer.AssemblyInfoInputs.cache
+C:\Users\yasinka\Desktop\RabbitMQ-Tutorial\2Consumer-1Producer\SecondConsumer\obj\Debug\net7.0\SecondConsumer.AssemblyInfo.cs
+C:\Users\yasinka\Desktop\RabbitMQ-Tutorial\2Consumer-1Producer\SecondConsumer\obj\Debug\net7.0\SecondConsumer.csproj.CoreCompileInputs.cache
+C:\Users\yasinka\Desktop\RabbitMQ-Tutorial\2Consumer-1Producer\SecondConsumer\obj\Debug\net7.0\SecondConsumer.csproj.CopyComplete
+C:\Users\yasinka\Desktop\RabbitMQ-Tutorial\2Consumer-1Producer\SecondConsumer\obj\Debug\net7.0\SecondConsumer.dll
+C:\Users\yasinka\Desktop\RabbitMQ-Tutorial\2Consumer-1Producer\SecondConsumer\obj\Debug\net7.0\refint\SecondConsumer.dll
+C:\Users\yasinka\Desktop\RabbitMQ-Tutorial\2Consumer-1Producer\SecondConsumer\obj\Debug\net7.0\SecondConsumer.pdb
+C:\Users\yasinka\Desktop\RabbitMQ-Tutorial\2Consumer-1Producer\SecondConsumer\obj\Debug\net7.0\SecondConsumer.genruntimeconfig.cache
+C:\Users\yasinka\Desktop\RabbitMQ-Tutorial\2Consumer-1Producer\SecondConsumer\obj\Debug\net7.0\ref\SecondConsumer.dll
